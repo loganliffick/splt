@@ -63,3 +63,5 @@ splt = ({ target = ".splt", reveal = false }) => {
     }
   };
 };
+
+module.exports = splt;
