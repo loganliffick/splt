@@ -1,0 +1,16 @@
+{
+  "name": "spltjs",
+  "version": "1.0.0",
+  "description": "A lightweight text splitter.",
+  "license": "MIT",
+  "repository": "logan-liffick/spltjs",
+  "main": "index.js",
+  "keywords": [
+    "text",
+    "splitter",
+    "animation",
+    "npm",
+    "package",
+    "loganliffick"
+  ]
+}
