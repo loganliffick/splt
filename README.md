@@ -1,9 +1,14 @@
-# @spltjs
+# splt js
 
-[![npm (scoped)](https://img.shields.io/npm/v/spltjs.svg)](https://www.npmjs.com/package/spltjs)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/spltjs.svg)](https://www.npmjs.com/package/spltjs)
+![npm](https://img.shields.io/npm/v/spltjs?style=flat-square)
+![npm bundle size](https://img.shields.io/bundlephobia/min/spltjs?style=flat-square)
+![npm](https://img.shields.io/npm/dw/spltjs?style=flat-square)
 
 A text splitter that just f\*cking works.
+</br>
+<a href="https://www.buymeacoffee.com/loganliffick">Support splt's creator</a>
+
+---
 
 ## Install
 
@@ -11,7 +16,7 @@ A text splitter that just f\*cking works.
 $ npm i spltjs
 ```
 
-## Usage
+## Basic Usage
 
 ```js
 import splt from "spltjs";
