@@ -6,7 +6,7 @@
 
 A text splitter that just f\*cking works
 </br>
-<a href="https://www.buymeacoffee.com/loganliffick" target="_blank">Support splt's creator</a>.
+<a href="https://www.buymeacoffee.com/loganliffick" target="_blank">Support splt's creator</a>
 
 ## Install
 
