@@ -4,11 +4,9 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/min/spltjs?style=flat-square)
 ![npm](https://img.shields.io/npm/dw/spltjs?style=flat-square)
 
-A text splitter that just f\*cking works.
+A text splitter that just f\*cking works
 </br>
-<a href="https://www.buymeacoffee.com/loganliffick">Support splt's creator</a>
-
----
+<a href="https://www.buymeacoffee.com/loganliffick" target="_blank">Support splt's creator</a>.
 
 ## Install
 
