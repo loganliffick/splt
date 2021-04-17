@@ -1,7 +1,8 @@
 {
   "name": "spltjs",
   "version": "1.0.8",
-  "description": "A lightweight text splitter.",
+  "description": "A lightweight text splitter",
+  "author": "Logan Liffick",
   "license": "MIT",
   "repository": "logan-liffick/splt",
   "main": "splt.js",
