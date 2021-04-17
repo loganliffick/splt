@@ -1,4 +1,4 @@
-splt = ({ target = '.splt', reveal = false }) => {
+export default function splt({ target = '.splt', reveal = false }) {
   let saveOriginal = [];
 
   //grab entities
@@ -62,6 +62,4 @@ splt = ({ target = '.splt', reveal = false }) => {
       entity[e].innerHTML = saveOriginal[e]; //sets text to original value
     }
   };
-};
-
-module.exports = splt;
+}
