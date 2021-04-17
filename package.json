@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": "logan-liffick/spltjs",
   "main": "index.js",
+  "module": "index.esm.js",
   "keywords": [
     "text",
     "splitter",
