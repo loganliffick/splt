@@ -1,0 +1,9 @@
+# prettier
+.prettierignore
+.prettierrc
+
+#gitignore
+.gitignore
+
+# working file
+splt-wip.js
