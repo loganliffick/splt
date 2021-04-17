@@ -1,12 +1,12 @@
-# splt js
+# splt.js
+![npm](https://badgen.net/npm/v/spltjs)
+![bundlephobia](https://badgen.net/bundlephobia/min/spltjs)
+![bundlephobia](https://badgen.net/bundlephobia/minzip/spltjs)
+![npm](https://badgen.net/npm/dependents/spltjs)
+![npm](https://badgen.net/npm/dw/spltjs)
 
-![npm](https://img.shields.io/npm/v/spltjs?style=flat-square)
-![npm bundle size](https://img.shields.io/bundlephobia/min/spltjs?style=flat-square)
-![npm](https://img.shields.io/npm/dw/spltjs?style=flat-square)
-
-A text splitter that just f\*cking works
-</br>
-<a href="https://www.buymeacoffee.com/loganliffick">Support splt's creator</a>
+<p>A text splitter that just f\*cking works.</p>
+<p>Support splt's creator <a href="https://www.buymeacoffee.com/loganliffick">here</a>.</p>
 
 ## Install
 
