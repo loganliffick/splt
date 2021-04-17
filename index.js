@@ -1,4 +1,4 @@
-export default function splt({ target = '.splt', reveal = false }) {
+function splt({ target = '.splt', reveal = false }) {
   let saveOriginal = [];
 
   //grab entities
@@ -63,3 +63,5 @@ export default function splt({ target = '.splt', reveal = false }) {
     }
   };
 }
+
+export default splt;
