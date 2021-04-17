@@ -3,7 +3,7 @@
   "version": "1.0.8",
   "description": "A lightweight text splitter.",
   "license": "MIT",
-  "repository": "logan-liffick/spltjs",
+  "repository": "logan-liffick/splt",
   "main": "splt.js",
   "module": "splt.esm.js",
   "keywords": [
