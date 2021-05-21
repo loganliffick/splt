@@ -23,3 +23,7 @@ import splt from 'spltjs';
 splt({});
 // splits all text with class .splt applied
 ```
+
+## Documentation
+
+<p>View full documentation at <a href="https://www.spltjs.com">spltjs.com</a></p>
