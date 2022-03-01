@@ -1,6 +1,8 @@
 # splt.js
 
 ![npm](https://badgen.net/npm/v/spltjs)
+![bundlephobia](https://badgen.net/bundlephobia/min/spltjs)
+![bundlephobia](https://badgen.net/bundlephobia/minzip/spltjs)
 ![npm](https://badgen.net/npm/dependents/spltjs)
 ![npm](https://badgen.net/npm/dw/spltjs)
 
