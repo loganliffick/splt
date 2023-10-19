@@ -1,4 +1,4 @@
-# splt.js
+# SpltJS
 
 ![npm](https://badgen.net/npm/v/spltjs)
 ![bundlephobia](https://badgen.net/bundlephobia/min/spltjs)
@@ -7,7 +7,11 @@
 ![npm](https://badgen.net/npm/dw/spltjs)
 
 <p>A text splitter that just f*cking works.</p>
-<p>Support splt's creator <a href="https://www.buymeacoffee.com/loganliffick">here</a>.</p>
+<p>Support SpltJS's creator <a href="https://www.buymeacoffee.com/loganliffick">with a coffee</a></p>
+
+## Looking for a React-ready version?
+<p>Check it out here at <a href="https://react.spltjs.com">react.spltjs.com</a></p>
+
 
 ## Install
 
